@@ -1,4 +1,4 @@
-# Cloning a Git Repository
+# How to Clone a Git Repository
 By: Michael Gomez
 
 # Table of contents
